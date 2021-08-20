@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "792621046523",
+    "project_id": "travel-sl-1db55",
+    "storage_bucket": "travel-sl-1db55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792621046523:android:a92dd0c6a4902f20e1ae5e",
+        "android_client_info": {
+          "package_name": "com.bawantha.travelsl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792621046523-ik78mpprv1f340ms0eoed4u55krfjfcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiynyw2qDZfZEg5xuvPnLgJxqL2ifV7V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792621046523-ik78mpprv1f340ms0eoed4u55krfjfcq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792621046523-0eof5f988nekvvnladfh0grbsbcl3rd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bawantha.travelsl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
